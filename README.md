@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @RomuloTrindadeC
+- 👀 I’m interested in Programming
+- 🌱 I’m currently studying Computing science.
 - I'm a DeMolay"
 - I'm 20 years old!
 - Seeking for knowledge
-- 👀 I’m interested in Programming
-- 🌱 I’m currently studying Computing science.
 - 📫 How to reach me: www.linkedin.com/in/rômulo-trindade-cancado 
 -   Discord: Rômulo Trindade Cançado"#6097
 
